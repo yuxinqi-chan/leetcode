@@ -6,6 +6,7 @@
 
 // @lc code=start
 /**
+ * 遍历一遍数组存在map里，同时访问对应被加数是否存在这个map中
  * @param {number[]} nums
  * @param {number} target
  * @return {number[]}

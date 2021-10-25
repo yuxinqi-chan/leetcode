@@ -6,6 +6,7 @@
 
 // @lc code=start
 /**
+ * 左右指针找最长
  * @param {string} s
  * @return {number}
  */
@@ -24,7 +25,7 @@ var lengthOfLongestSubstring = function (s) {
     return max
 };
 /**
- * 
+ * 判断是否有效
  * @param {string} str 
  */
 function isValid(str) {

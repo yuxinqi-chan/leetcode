@@ -13,6 +13,7 @@
  * }
  */
 /**
+ * 链表相加，往后进位
  * @param {ListNode} l1
  * @param {ListNode} l2
  * @return {ListNode}
